@@ -1,0 +1,12 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "source": "indx.html",
+  "scripts": {
+    "start": "index.html"
+    "build": "parcel build index.html"
+  },
+  "author": "Jocelyn",
+  "license": "ISC",
+  "description": ""
+}
